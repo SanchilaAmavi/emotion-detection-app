@@ -108,10 +108,4 @@ pylint EmotionDetection/emotion_detection.py server.py
 - The mobile app is built using Expo and connects to the same Flask API.
 - CORS is enabled for the `/emotionDetector` endpoint so mobile clients can reach the API.
 
-## Contribution
 
-This repository is configured for updates to `https://github.com/SanchilaAmavi/emotion-detection-app`.
-
----
-
-Built for professional deployment and cross-platform experience.
