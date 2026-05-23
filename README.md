@@ -1,4 +1,4 @@
-# Emotion Detection App
+﻿# Emotion Detection App
 
 A professional emotion detection application delivered as both a web app and a mobile app.
 This project uses IBM Watson NLP concepts to analyze text and identify five core emotions.
@@ -115,4 +115,3 @@ This repository is configured for updates to `https://github.com/SanchilaAmavi/e
 ---
 
 Built for professional deployment and cross-platform experience.
-
